@@ -1,0 +1,26 @@
+@import url("https://fonts.cdnfonts.com/css/graphik");
+
+:root {
+  --white-color: #fff;
+  --black-color: #111111;
+  --black-color-twenty: #11111120;
+  --black-color-ten: #11111110;
+  --black-color-seventy: #11111170;
+  --purple-color: #820ad1;
+  --wild-sand-color: #f5f5f5;
+  --french-lilac-color: #e7d6f1;
+  --cold-gray-color: #1e1d1d;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Graphik", sans-serif;
+  font-size: 1rem;
+  padding-top: 3.5rem;
+  color: var(--white-color);
+}
